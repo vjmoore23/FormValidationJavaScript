@@ -1,0 +1,55 @@
+h1{
+font-size:26px;
+font-weight:bold;
+font-family:sans-serif;
+margin-left:5cm;
+margin-bottom:1cm;
+    
+ }
+body { 
+font-family:sans-serif;
+
+
+
+
+}
+form{
+font-size:18px;
+font-family:sans-serif;
+
+ }
+ input, select, textarea{
+  display: inline-block;
+  float: left;
+  margin-left:1cm;
+  margin-bottom:0.5cm;
+  
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 300px;
+    text-align: right;
+    margin-bottom:0.5cm;
+}
+#button{
+        
+    float: left;
+    clear:left;
+    margin-top:0.5cm;
+    margin-left:6.5cm;
+    margin-bottom:0.5cm;
+ }
+ #margin{
+ margin-top:0.5cm;
+ }
+ #moveRight{
+ margin-left:2cm;
+ 
+  }
+ #caption{
+ font-style:italic;
+ font-size:12px;
+ float:left;
+}
